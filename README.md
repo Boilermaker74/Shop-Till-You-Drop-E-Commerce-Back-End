@@ -21,7 +21,17 @@ Insomina must be install to access the application. MySQL2 must also be installe
 ![alt-text](./assets/Screenshot(125).png) 
 
 
-Make sure the file is renamed from .env.example to simply .env. Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell.
+Make sure the file is renamed from .env.example to simply .env. 
+
+Return to the application’s root directory. 
+
+Type “npm install” to install the npm packages that are required to run the application. 
+
+![alt-text](./assets/npminstall.png)
+
+
+
+Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell.
 
 
 
@@ -38,14 +48,6 @@ Type “exit” to exit the MySQL shell.
 
 ![alt-text](./assets/Screenshot(128).png) 
 
-
-
-
-Return to the application’s root directory. 
-
-Type “npm install” to install the npm packages that are required to run the application. 
-
-![alt-text](./assets/npminstall.png)
 
 
 Next, type “node seeds/index.js” to seed the database. 
