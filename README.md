@@ -37,6 +37,12 @@ From the MySQL shell, source the schema.sql file which will create the ecommerce
 
 
 Type “exit” to exit the MySQL shell. 
+
+
+
+
+
+
 (./assets/image_1.png)
 
 
