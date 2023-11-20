@@ -82,7 +82,7 @@ The user can also view a particular product by id:
 
 ![alt-text](./assets/get1cat.png)
 
-The user can also view a tag category by id:
+The user can also view a tag by id:
 
 ![alt-text](./assets/get1tag.png)
 
