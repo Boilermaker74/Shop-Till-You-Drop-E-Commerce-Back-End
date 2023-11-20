@@ -103,8 +103,10 @@ if an incorrect route is utilized, the user is presented with the wrong route me
 
 ![alt-text](./assets/wrong.png)
 
+The User can also create edit and delete products and tags in the database.
+
 ## Walkthrough Video:
-A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/RFOCboapueeEhQLnVv7C)
+A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/8WBIxVhd0i4yuNRqLisf))
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
