@@ -60,6 +60,10 @@ Finally type “node server.js” to launch the server.
 
 ## How to Use This Application:
 Since this application is only the back end of a full stack product. Insomnia, the API design tool, must be used to access the routes created by the application.
+The user can view all categories in the database:
+
+
+![alt-text](./assets/getcat.png)
 The user can also view all products:
 
 ![alt-text](./assets/getput.png)
