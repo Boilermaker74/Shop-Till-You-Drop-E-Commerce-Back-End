@@ -22,12 +22,16 @@ Insomina must be install to access the application. MySQL2 must also be installe
 
 
 Make sure the file is renamed from .env.example to simply .env. Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell.
+
+
 ![alt-text](./assets/Screenshot(118).png) 
 
 
 
-From the MySQL shell, source the schema.sql file which will create the ecommerce database. 
-![alt-text](Screenshot119).png
+From the MySQL shell, source the schema.sql file which will create the ecommerce database.
+
+
+![alt-text](Screenshot119).png)
 
 
 Type “exit” to exit the MySQL shell. 
