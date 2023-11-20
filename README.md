@@ -74,6 +74,18 @@ The user can also view all tags:
 
 ![alt-text](./assets/get1put.png)
 
+The user can also view a particular category by id:
+
+![alt-text](./assets/getput.png)
+
+The user can also view a particular product by id:
+
+![alt-text](./assets/get1cat.png)
+
+The user can also view a tag category by id:
+
+![alt-text](./assets/get1tag.png)
+
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/RFOCboapueeEhQLnVv7C)
 ## Licenses
