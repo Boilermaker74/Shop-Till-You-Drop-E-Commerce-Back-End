@@ -44,7 +44,7 @@ Type “exit” to exit the MySQL shell.
 Return to the application’s root directory. 
 
 Type “npm install” to install the npm packages that are required to run the application. 
-(./assets/image_1.png)
+![alt-text](./assets/npminstall.png)
 
 
 Next, type “node seeds/index.js” to seed the database. 
