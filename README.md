@@ -67,7 +67,7 @@ The user can view all categories in the database:
 
 The user can also view all products:
 
-![alt-text](./assets/getput.png)
+![alt-text](./assets/gettag.png)
 
 
 The user can also view all tags:
