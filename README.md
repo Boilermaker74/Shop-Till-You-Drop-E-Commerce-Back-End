@@ -17,7 +17,8 @@ This app is not deployed on the internet. The repository for the code can be acc
 * [Questions](#questions)
 
 ## Installation
-Insomina must be install to access the application. MySQL2 must also be installed. Once these programs are installed, record the database name, the user name and password for Mysql database into the dot.env file.
+Clone the repository [here](https://github.com/Boilermaker74/Shop-Till-You-Drop-E-Commerce-Back-End). Insomina must be install to access the application. MySQL2 must also be installed. Once these programs are installed, record the database name, the user name and password for Mysql database into the dot.env file.
+
 ![alt-text](./assets/Screenshot(125).png) 
 
 
@@ -47,7 +48,7 @@ Type “exit” to exit the MySQL shell.
 ![alt-text](./assets/Screenshot(128).png) 
 
 
-
+Return to the application's root directory.
 Next, type “node seeds/index.js” to seed the database. 
 
 ![alt-text](./assets/seed.png)
