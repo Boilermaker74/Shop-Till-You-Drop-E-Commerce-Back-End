@@ -60,9 +60,6 @@ Finally type “node server.js” to launch the server.
 
 ## How to Use This Application:
 Since this application is only the back end of a full stack product. Insomnia, the API design tool, must be used to access the routes created by the application.
-![alt-text](./assets/nodeServer.png)
-
-
 The user can also view all products:
 
 ![alt-text](./assets/getput.png)
