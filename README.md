@@ -44,17 +44,19 @@ Type “exit” to exit the MySQL shell.
 Return to the application’s root directory. 
 
 Type “npm install” to install the npm packages that are required to run the application. 
+
 ![alt-text](./assets/npminstall.png)
 
 
 Next, type “node seeds/index.js” to seed the database. 
-(./assets/image_1.png)
+
+![alt-text](./assets/seed.png)
 
 
 
 Finally type “node server.js” to launch the server. 
-(./assets/image_1.png)
 
+![alt-text](./assets/nodeServer.png)
 
 ## How to Use This Application:
 Since this application is only the back end of a full stack product. Insomnia, the API design tool, must be used to access the routes created by the application.
