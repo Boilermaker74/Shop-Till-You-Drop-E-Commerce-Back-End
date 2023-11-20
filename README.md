@@ -36,7 +36,7 @@ Type “exit” to exit the MySQL shell.
 
 
 
-![alt-text](./assets/Screenshot(128).png) 
+![alt-text](./assets/Screenshot(125).png) 
 
 
 (./assets/image_1.png)
