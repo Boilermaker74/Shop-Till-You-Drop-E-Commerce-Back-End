@@ -33,7 +33,7 @@ Make sure the file is renamed from .env.example to simply .env. Enter the direct
 From the MySQL shell, source the schema.sql file which will create the ecommerce database.
 
 
-![alt-text](./assets/Screenshot(119).png)
+![alt-text](./assets/Screenshot(120).png)
 
 
 Type “exit” to exit the MySQL shell. 
