@@ -90,11 +90,11 @@ The user is allowed to create a new category:
 
 ![alt-text](./assets/postcat.png)
 
-The user can also view a particular product by id:
+The user can change a category to a new descriptor:
 
 ![alt-text](./assets/putcat.png)
 
-The user can also view a tag category by id:
+The user can delete an entire category completely:
 
 ![alt-text](./assets/delcat.png)
 
