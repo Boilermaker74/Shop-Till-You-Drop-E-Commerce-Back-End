@@ -60,6 +60,11 @@ Finally type “node server.js” to launch the server.
 
 ## How to Use This Application:
 Since this application is only the back end of a full stack product. Insomnia, the API design tool, must be used to access the routes created by the application.
+The user can view all catergories:
+
+
+
+
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/RFOCboapueeEhQLnVv7C)
 ## Licenses
