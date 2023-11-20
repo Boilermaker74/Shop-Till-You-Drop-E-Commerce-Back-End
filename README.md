@@ -19,11 +19,12 @@ This app is not deployed on the internet. The repository for the code can be acc
 ## Installation
 Insomina must be install to access the application. MySQL2 must also be installed. Once these programs are installed, record the database name, the user name and password for Mysql database into the dot.env file.
 
-![alt-text](./assets/screenshot118).png
+![alt-text](./assets/screenshot(118).png)
 
 
 
-Make sure the file is renamed from .env.example to simply .env. Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell. (./assets/image_1.png)
+Make sure the file is renamed from .env.example to simply .env. Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell.
+![alt-text](./assets/screenshot(118).png) 
 
 
 
