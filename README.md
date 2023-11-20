@@ -31,16 +31,14 @@ Type “npm install” to install the npm packages that are required to run the 
 
 
 
-Enter the directory, “db”. In the "db" is the root directory, enter the MySQL shell.
+Enter the directory, “db”..
 
 
 
 
 ![alt-text](./assets/Screenshot(118).png) 
 
-
-
-From the MySQL shell, source the schema.sql file which will create the ecommerce database.
+In the "db" directory, enter the MySQL shell From the MySQL shell, source the schema.sql file which will create the ecommerce database.
 Type “exit” to exit the MySQL shell. 
 
 
