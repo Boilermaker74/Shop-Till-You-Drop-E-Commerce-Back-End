@@ -38,7 +38,7 @@ Enter the directory, “db”..
 
 ![alt-text](./assets/Screenshot(118).png) 
 
-In the "db" directory, enter the MySQL shell From the MySQL shell, source the schema.sql file which will create the ecommerce database.
+In the "db" directory, enter the MySQL shell. From the MySQL shell, source the schema.sql file which will create the ecommerce database.
 Type “exit” to exit the MySQL shell. 
 
 
