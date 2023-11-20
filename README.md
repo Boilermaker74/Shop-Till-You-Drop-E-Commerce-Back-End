@@ -86,6 +86,22 @@ The user can also view a tag category by id:
 
 ![alt-text](./assets/get1tag.png)
 
+The user is allowed to create a new category:
+
+![alt-text](./assets/postcat.png)
+
+The user can also view a particular product by id:
+
+![alt-text](./assets/putcat.png)
+
+The user can also view a tag category by id:
+
+![alt-text](./assets/delcat.png)
+
+if an incorrect route is utilized, the user is presented with the wrong route message.
+
+![alt-text](./assets/wrong.png)
+
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/RFOCboapueeEhQLnVv7C)
 ## Licenses
