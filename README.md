@@ -72,7 +72,7 @@ The user can also view all products:
 
 The user can also view all tags:
 
-![alt-text](./assets/gettag.png)
+![alt-text](./assets/get1put.png)
 
 ## Walkthrough Video:
 A link to a video which shows the installation process and user's interactions can be found [HERE](https://app.screencastify.com/v2/watch/RFOCboapueeEhQLnVv7C)
